@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<news>
+    <item>
+    <title>A hír címe</title>
+    <description>A hír tartalma</description>
+    <link>https://www.google.com</link>
+    </item>
+</news>
+
+<news>
+    <item>
+    <title>Egy másik hír</title>
+    <description>A másik hír tartalma</description>
+    <link>https://www.google.com</link>
+    </item>
+</news>
+
+<news>
+    <item>
+    <title>Egy harmadik hír</title>
+    <description>A harmadik cím tartalmaa</description>
+    <link>https://www.google.com</link>
+    </item>
+</news>
+
+</rss>
